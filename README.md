@@ -1,4 +1,5 @@
 video_player
 ============
 
-Based on MFC&amp;OPENCV
+Based on MFC&OPENCV
+runable with opencv
